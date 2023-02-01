@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/atlas/static/css/main.ce7e96a0.css",
+    "main.js": "/atlas/static/js/main.499f84aa.js",
+    "index.html": "/atlas/index.html",
+    "main.ce7e96a0.css.map": "/atlas/static/css/main.ce7e96a0.css.map",
+    "main.499f84aa.js.map": "/atlas/static/js/main.499f84aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce7e96a0.css",
+    "static/js/main.499f84aa.js"
+  ]
+}
